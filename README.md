@@ -1,9 +1,9 @@
 # MNIST Autoencoder using TensorFlow
 
 ## 📌 Project Overview
-This project implements a **Deep Autoencoder** using **TensorFlow and Keras** to learn **compressed representations (features)** of handwritten digit images from the **MNIST dataset**.
+This project implements a **Deep Autoencoder** using **TensorFlow** to learn **compressed representations (features)** of handwritten digit images from the **MNIST dataset**.
 
-Unlike classification models, this project focuses on **unsupervised learning**, where the model learns patterns and structures in the data **without using labels**. The trained autoencoder reconstructs the original input images from a low-dimensional latent space.
+A **unsupervised learning**, where the model learns patterns and structures in the data **without using labels**. The trained autoencoder reconstructs the original input images from a low-dimensional latent space.
 
 ---
 
